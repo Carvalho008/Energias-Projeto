@@ -1,4 +1,6 @@
-# Prática - 2025-04-04
+# 🌱 ReEnergia
+
+**ReEnergia** é uma plataforma web que tem como objetivo conscientizar, educar e ajudar pessoas a entender e escolher fontes de energia renovável de forma clara, interativa e personalizada.
 
 ## 👨‍💻 Equipe
 
