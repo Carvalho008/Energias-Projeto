@@ -1,0 +1,28 @@
+.container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px 0;
+}
+
+.screen{
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 40px 30px;
+    gap: 15px;
+    background-color: white;
+    min-height: 100%;
+}
+
+.titulo{
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
