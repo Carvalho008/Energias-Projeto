@@ -3,7 +3,9 @@ import ItemLista from "../components/item-lista";
 
 export default function ListaPage() {
 
-  let aprendizados: string[] = []
+  let aprendizados: string[] = [
+    
+  ]
 
   return (
     <div className={S.container}>
