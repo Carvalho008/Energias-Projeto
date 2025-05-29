@@ -4,7 +4,7 @@ import ItemLista from "../components/item-lista";
 export default function ListaPage() {
 
   let aprendizados: string[] = [
-    
+    "Organização de pastas do Next", // Adição Lian Carvalho
   ]
 
   return (
