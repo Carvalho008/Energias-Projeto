@@ -8,6 +8,7 @@ export default function AprendizadoPage() {
     "Organização de pastas do React Native com Expo", // Adição Lian Carvalho
     "Manipulação de componentes com Native", // Adição Pedro Levy
     "Design responsivo com React Native", // Adição Joao Reis
+    "Criação de telas em React Native" // Adição de Ayslan de Sena
   ]
 
   return (
