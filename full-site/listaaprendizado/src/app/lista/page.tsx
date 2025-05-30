@@ -5,6 +5,7 @@ export default function ListaPage() {
 
   let aprendizados: string[] = [
     "Organização de pastas do Next", // Adição Lian Carvalho
+    "Manipulação de componentes com Next", // Adição Pedro Levy
   ]
 
   return (

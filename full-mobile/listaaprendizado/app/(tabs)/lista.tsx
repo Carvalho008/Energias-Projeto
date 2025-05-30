@@ -6,6 +6,7 @@ export default function AprendizadoPage() {
 
   let aprendizados: string[] = [
     "Organização de pastas do React Native com Expo", // Adição Lian Carvalho
+    "Manipulação de componentes com Native", // Adição Pedro Levy
   ]
 
   return (
