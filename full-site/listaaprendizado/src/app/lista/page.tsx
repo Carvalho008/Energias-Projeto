@@ -7,7 +7,8 @@ export default function ListaPage() {
     "Organização de pastas do Next", // Adição Lian Carvalho
     "Manipulação de componentes com Next", // Adição Pedro Levy
     "Design responsivo com React Native", // Adição Joao Reis
-    "Criação de páginas em Next" // Adição de Ayslan de Sena
+    "Criação de páginas em Next", // Adição de Ayslan de Sena
+    "Declaração de variaveis em TS" // Adição de Ryan Reis
   ]
 
   return (
