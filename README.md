@@ -21,6 +21,7 @@ Este repositório contém dois projetos distintos:
 ### 🌐 Rodando o projeto Web (Next.js)
 ```cd .\full-site\```
 ```cd .\listaaprendizado\```
+```npm install```
 ```npm run dev```
 Acesse em ```http://localhost:3000```
 
@@ -28,5 +29,6 @@ Acesse em ```http://localhost:3000```
 ### 📱	 Rodando o projeto mobile (Expo + React Native)
 ```cd .\full-mobile\```
 ```cd .\listaaprendizado\```
+```npm install```
 ```npm run start```
 Acesse em ```http://localhost:8081```
