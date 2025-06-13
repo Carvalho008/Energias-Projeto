@@ -55,9 +55,10 @@ Siga as instruções no terminal para rodar no emulador ou dispositivo físico v
 
 ---
 
-## 📊 Estatísticas do repositório
+## 📊 Estatísticas do Repositório
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho008&repo=Energias-Projeto&layout=compact)
-![Tamanho do código](https://img.shields.io/github/languages/code-size/Carvalho008/Energias-Projeto)
+![GitHub repo size](https://img.shields.io/github/repo-size/Carvalho008/Energias-Projeto)
+![GitHub stars](https://img.shields.io/github/stars/Carvalho008/Energias-Projeto?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Carvalho008/Energias-Projeto?style=social)
 
 ---
