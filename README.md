@@ -1,6 +1,8 @@
-# 🌱 ReEnergia
+# 🌱 ReEnergia - Repositório Web
 
 **ReEnergia** é uma plataforma web que tem como objetivo conscientizar, educar e ajudar pessoas a entender e escolher fontes de energia renovável de forma clara, interativa e personalizada.
+
+---
 
 ## 👨‍💻 Equipe
 
@@ -11,24 +13,23 @@
 - [Pedro Levy](https://github.com/levyponciano)
 
 ---
+
 ## 🚀 Como rodar o projeto
 
-Este repositório contém dois projetos distintos:
+Projeto desenvolvido com [Next.js](https://nextjs.org)
 
-- 🌐 **Web** – utilizando [Next.js](https://nextjs.org)
-- 📱 **Mobile** – utilizando [Expo (React Native)](https://expo.dev)
+```bash
+cd .\full-site\
+cd .\listaaprendizado\
+npm install
+npm run dev
+````
 
-### 🌐 Rodando o projeto Web (Next.js)
-```cd .\full-site\```
-```cd .\listaaprendizado\```
-```npm install```
-```npm run dev```
-Acesse em ```http://localhost:3000```
+Acesse em: [http://localhost:3000](http://localhost:3000)
 
+---
 
-### 📱	 Rodando o projeto mobile (Expo + React Native)
-```cd .\full-mobile\```
-```cd .\listaaprendizado\```
-```npm install```
-```npm run start```
-Acesse em ```http://localhost:8081```
+## 📊 Estatísticas do repositório
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho008\&repo=Reenergia-Web\&layout=compact)
+![Tamanho do código](https://img.shields.io/github/languages/code-size/Carvalho008/Reenergia-Web)
